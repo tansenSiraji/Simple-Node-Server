@@ -1,0 +1,29 @@
+{
+  "name": "classwork-8",
+  "version": "1.0.0",
+  "description": "Basic Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tansenSiraji/Simple-Node-Server.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Tansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tansenSiraji/Simple-Node-Server/issues"
+  },
+  "homepage": "https://github.com/tansenSiraji/Simple-Node-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
